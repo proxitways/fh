@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Proxit Ways | Join Free WhatsApp</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: url('https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20px;
+      position: relative;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background-color: rgba(0, 0, 0, 0.75);
+      z-index: 0;
+    }
+
+    .content {
+      position: relative;
+      z-index: 1;
+      max-width: 600px;
+      width: 100%;
+    }
+
+    .logo {
+      max-width: 160px;
+      height: auto;
+      margin-bottom: 20px;
+      border-radius: 8px;
+    }
+
+    h1 {
+      font-size: 2.2em;
+      margin-bottom: 0.3em;
+    }
+
+    p, h2 {
+      font-size: 1em;
+      margin: 0.4em 0;
+    }
+
+    .cta-button {
+      margin-top: 1.5em;
+      padding: 14px 24px;
+      background-color: #ffcc00;
+      color: #000;
+      font-weight: bold;
+      border: none;
+      border-radius: 8px;
+      font-size: 1.1em;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      transition: background 0.3s ease;
+    }
+
+    .cta-button:hover {
+      background-color: #e6b800;
+    }
+
+    @media (max-width: 480px) {
+      h1 { font-size: 1.8em; }
+      p, h2 { font-size: 0.95em; }
+      .cta-button {
+        font-size: 1em;
+        padding: 12px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay"></div>
+
+  <div class="content">
+    <img src="https://i.ibb.co/chbzpgNV/1000278308.jpg" alt="Proxit Ways Logo" class="logo" />
+<p> <a href="https://chat.whatsapp.com/HcWI1RkSrCiEuvj9puOl66?mode=gi_t" class="cta-button" target="_blank">JOIN FREE WHATSAPP CHANNEL</a> </p>
+
+    <h1>PROXIT WAYS</h1>
+    <p>👇👇👇👇👇</p>
+    <h2>JOIN FREE WHATSAPP</h2>
+    <p>
+  Get <span style="background-color: limegreen; color: white; padding: 2px 6px; border-radius: 4px;">high-accuracy</span> signals for 
+  <br><br>
+      <!-- Indian Indices -->
+<!-- Line 1: Indian Indices -->
+<span style="background-color: #1e90ff; color: white; padding: 2px 6px; border-radius: 4px;">NIFTY</span> |
+<span style="background-color: #006400; color: white; padding: 2px 6px; border-radius: 4px;">BANKNIFTY</span> |
+<span style="background-color: #800080; color: white; padding: 2px 6px; border-radius: 4px;">SENSEX</span>
+<br><br>
+
+<!-- Line 2: Stock Option -->
+<span style="background-color: #ff1493; color: white; padding: 2px 6px; border-radius: 4px;">STOCK OPTION</span>
+<br><br>
+
+<!-- Line 3: Forex, Gold, Crypto -->
+<span style="background-color: #00008b; color: white; padding: 2px 6px; border-radius: 4px;">FOREX</span> |
+<span style="background-color: gold; color: black; padding: 2px 6px; border-radius: 4px;">GOLD (XAUUSD)</span> |
+<span style="background-color: #f7931a; color: white; padding: 2px 6px; border-radius: 4px;">BTCUSD</span>
+</p>
+
+    <p>📈 95% Success Rate</p>
+    <p>🔥 Join the Best in Global Forex Trading 💼</p>
+    
+    <p>✅ Daily 2–8 Signals</p>
+    <p>✅ 24×7 Live Support</p>
+    <p>👇 Click the button below 👇</p>
+    <a href="https://chat.whatsapp.com/HcWI1RkSrCiEuvj9puOl66?mode=gi_t" class="cta-button" target="_blank">JOIN FREE WHATSAPP CHANNEL</a>
+  </div>
+</body>
+</html>
+
+
+
+
